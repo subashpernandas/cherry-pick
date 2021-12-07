@@ -10,6 +10,8 @@ public class Student {
 	
 	private String address;
 	
+	private String lastName;
+	
 	public Student(Integer id, String name) {
 		this.id = id;
 		this.name = name;
